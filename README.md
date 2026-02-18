@@ -1,5 +1,5 @@
 # 💫 ABOUT ME:
-I am an  “Uttamrajrames<br>I'am an Engineering Student at MVJ College of Engineering. <br>I work with Python and Java. <br>I build projects in authentication systems and satellite tracking. <br>I focus on clear logic and reliable results. <br>I aim to start your career as a software or AI engineer and support product quality and team goals.
+I am an  “Uttamrajrames"<br>I'am an Engineering Student at MVJ College of Engineering. <br>I work with Python and Java. <br>I build projects in authentication systems and satellite tracking. <br>I focus on clear logic and reliable results. <br>I aim to start your career as a software or AI engineer and support product quality and team goals.
 
 
 ## 🌐 SOCIALS:
