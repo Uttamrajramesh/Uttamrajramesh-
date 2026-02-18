@@ -12,10 +12,5 @@ I am an  “Uttamrajrames<br>I'am an Engineering Student at MVJ College of Engin
 ![](https://nirzak-streak-stats.vercel.app/?user=Uttamrajramesh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttamrajramesh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝TOP CONTRIBUTED REPO
-![](https://github-contributor-stats.vercel.app/api?username=Uttamrajramesh&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Uttamrajramesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># Uttamrajramesh-
